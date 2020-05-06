@@ -7,7 +7,8 @@ const Footer = () => {
             <Fade delay={500}>
                 <div className="font_righteous footer_logo_venue">The Venue</div>
                 <div className="footer_copyright">
-                    The venue {(new Date().getFullYear())}.All rights reserved.
+                    The Venue {(new Date().getFullYear())} <span >&copy; </span>
+All rights reserved.
                 </div>
             </Fade>
         </footer>
