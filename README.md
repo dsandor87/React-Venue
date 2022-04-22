@@ -1,3 +1,8 @@
+# SPA - Build with React
+
+Visit the [Deployed App](https://splendorous-queijadas-5a4ea2.netlify.app/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
