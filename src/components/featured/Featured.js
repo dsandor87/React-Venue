@@ -8,7 +8,7 @@ const Featured = () => {
       <Carrousel/>
 
     <div className="artist_name">
-      <div className="wrapper">Ariana Grande</div>
+      <div className="wrapper">Hans Zimmer</div>
     </div>
       <TimeUntil/>
     </div>
